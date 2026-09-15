@@ -44,10 +44,13 @@ World Bank — World Development Indicators
 
 ## Visualizations
 
-The project includes:
+### Bangladesh GDP Trend (2010–2025)
 
-1. Bangladesh GDP Trend (2010–2025)
-2. Bangladesh Nominal GDP Change (2011–2025)
+![Bangladesh GDP Trend](GDP_Trend_2010_2025.jpg)
+
+### Bangladesh Nominal GDP Change (2011–2025)
+
+![Bangladesh Nominal GDP Change](GDP_Nominal_Change_2011_2025.jpg)
 
 ## Economic Interpretation
 
