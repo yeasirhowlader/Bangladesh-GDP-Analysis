@@ -1,0 +1,16 @@
+BANGLADESH GDP ANALYSIS — ANALYSIS NOTES
+Data Source: World Bank — World Development Indicators
+Data Period: 2010–2025
+Key Findings:
+Bangladesh's nominal GDP increased from $115.28 billion in 2010 to $465.32 billion in 2025.
+Total nominal GDP increased by 295.85% between 2010 and 2025.
+The CAGR of nominal GDP was 9.61%.
+The highest year-on-year nominal GDP change was 35.91% in 2016.
+The lowest year-on-year nominal GDP change was -4.94% in 2023.
+The average nominal GDP change during 2011–2025 was 9.93%.
+Economic Interpretation:
+Bangladesh's nominal GDP showed an overall upward trend from 2010 to 2025. However, the rate of change varied across years. GDP recorded a particularly large nominal increase in 2016, while 2023 recorded a negative nominal change.
+Important Note:
+The GDP figures are measured in current US dollars. Therefore, changes in prices and exchange rates can affect the results. Nominal GDP change should not be interpreted as real GDP growth.
+Future Analysis:
+Further analysis can include real GDP growth, GDP per capita, inflation, exchange rates, and other macroeconomic indicators.
