@@ -46,7 +46,7 @@ World Bank — World Development Indicators
 
 ### Bangladesh GDP Trend (2010–2025)
 
-![Bangladesh GDP Trend](GDP_Trend_2010_2025.jpg)
+![Bangladesh GDP Trend](GDP_trend_2010_2025.png)
 
 ### Bangladesh Nominal GDP Change (2011–2025)
 
